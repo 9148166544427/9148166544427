@@ -2,7 +2,9 @@
 - 👀 I’m interested in coding,sketching and very eager to learn new things
 - 🌱 I’m currently learning AI-Devops
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me https://ananddnportfolio.netlify.app/,http://github.com/9148166544427,http://linkedin.com/in/anand-dn-42954a2b3/
+- 📫 How to reach me https://ananddnportfolio.netlify.app/,   
+http://github.com/9148166544427,
+http://linkedin.com/in/anand-dn-42954a2b3/
 - 😄 Pronouns: Mr.
 - ⚡ Fun fact: ...
 
