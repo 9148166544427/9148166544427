@@ -6,7 +6,7 @@
 http://github.com/9148166544427,
 http://linkedin.com/in/anand-dn-42954a2b3/
 - 😄 Pronouns: Mr.
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I do Projects which looks like I am Spying on You
 
 <!---
 9148166544427/9148166544427 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
